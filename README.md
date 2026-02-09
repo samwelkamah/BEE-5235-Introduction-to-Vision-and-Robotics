@@ -9,7 +9,7 @@ MATLAB scripts included:
 - `Exercise_1.m`
 - `Exercise_2.m`
 - `Exercise_3.m`
-- `Excercise_4.m
+- `Exercise_4.m
 - `Exercise_5.m`
 
 ## Author
